@@ -21,7 +21,7 @@ I add the documentation I used:
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes Graf](Outcomes_vs_Goals.png)
+![Outcomes Graf](Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
