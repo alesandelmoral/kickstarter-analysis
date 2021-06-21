@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The main porpuse of this project is to analyze this dataset that contains data about crowdfunding platforms that means that this dataset will provide us with information about diferent kind of events and how the fundraisers and the backers interact through this platform that is how much money have pledged to the campaigns and even provide us with the outcome of each campaings among other relevant data for our analysis.
+The main purpose of this project is to analyze this dataset that contains data about crowdfunding platforms that means that this dataset will provide us with information about different kind of events and how the fundraisers and the backers interact through this platform that is how much money have pledged to the campaigns and even provide us with the outcome of each campaings among other relevant data for our analysis.
 
 ## Analysis and Challenges
 
