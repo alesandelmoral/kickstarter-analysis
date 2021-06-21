@@ -16,16 +16,16 @@ I add the documentation used:
 
 [Documentation of COUNTIF](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34)
 
-![Theater Graf](Resourses/TablaOutcomesGoals.png)
+![Theater Graf](Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater Graf](Resourses/Theater_Outcomes_vs_Launch.png)
+![Outcomes Graf](Outcomes_vs_Goals.png)
 
 
 ### Analysis of Outcomes Based on Goals
-![Theater Graf](Resourses/Outcomes_vs_Goals.png)
+![Theater Graf](https://github.com/alesandelmoral/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 
 ## Results
